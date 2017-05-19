@@ -43,3 +43,7 @@ C:\Users\Alex\Documents\GitHub\Server-Admin\Server Admin\obj\Debug\Server_Admin.
 C:\Users\Alex\Documents\GitHub\Server-Admin\Server Admin\obj\Debug\Server_Admin.Info.resources
 C:\Users\Alex\Documents\GitHub\Server-Admin\Server Admin\obj\Debug\Server_Admin.Resources.resources
 C:\Users\Alex\Documents\GitHub\Server-Admin\Server Admin\obj\Debug\Server Admin.vbproj.GenerateResource.Cache
+D:\Documents\GitHub\Server-Admin\Server Admin\bin\Debug\Server Admin.exe.config
+D:\Documents\GitHub\Server-Admin\Server Admin\obj\Debug\Server Admin.exe
+D:\Documents\GitHub\Server-Admin\Server Admin\obj\Debug\Server Admin.xml
+D:\Documents\GitHub\Server-Admin\Server Admin\obj\Debug\Server Admin.pdb
